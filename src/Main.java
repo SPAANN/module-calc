@@ -55,7 +55,7 @@ class chx{
 
     public static double del(double a, double b)
     {
-        return a * b;
+        return a / b;
     }
 
     public static double umn(double a, double b)
